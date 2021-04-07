@@ -5,22 +5,22 @@
 
 <br />
 
-<h3 style="color: rgb(80, 179, 222)"><strong>Implementation</strong></h3>
+<h3><strong>Implementation</strong></h3>
 
-<h4 style="color: rgb(80, 179, 222)">A class should be created, mostly its name has the "Factory" suffix.</h4>
+<p>A class should be created, mostly its name has the "Factory" suffix.</p>
 
-<h4 style="color: rgb(80, 179, 222)">A public static method should be added, which returns the desired data type and accepts a paramter. This paramter specifies, which object to create.</h4>
+<p>A public static method should be added, which returns the desired data type and accepts a paramter. This paramter specifies, which object to create.</p>
 
-<h4 style="display: inline; color: rgb(80, 179, 222)">Mostly this method implements its logic using <code>switch</code> or <code>if</code> statements.</h4>
+<p>Mostly this method implements its logic using <code>switch</code> or <code>if</code> statements.</p>
 
-<br></br>
+<br />
 
-<h3 style="color: rgb(42, 135, 120)"><strong>Example</strong></h3>
+<h3><strong>Example</strong></h3>
 
-<h4 style="color: rgb(42, 135, 120)">A website, in which users can register and choose their subscription type.</h4>
-<h4 style="color: rgb(42, 135, 120)">According to the type the user choose, the corresponding user object would be created at runtime.</h4>
+<p>A website, in which users can register and choose their subscription type.</p>
+<p>According to the type the user choose, the corresponding user object would be created at runtime.</p>
 
-<br></br>
+<br />
 
-<h3 style="color: rgb(209, 77, 77)"><strong>Negative Point</strong></h3>
-<h4 style="color: rgb(209, 77, 77)">By the emrgence of a new type of object, the editing of the Factory class would be indispensable.</h4>
+<h3><strong>Negative Point</strong></h3>
+<p>By the emrgence of a new type of object, the editing of the Factory class would be indispensable.</p>
