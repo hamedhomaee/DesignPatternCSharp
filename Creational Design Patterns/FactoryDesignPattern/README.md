@@ -18,7 +18,7 @@
 <h3><strong>Example</strong></h3>
 
 <p>A website, in which users can register and choose their subscription type.</p>
-<p>According to the type the user choose, the corresponding user object would be created at runtime.</p>
+<p>According to the type the user chooses, the corresponding user object would be created at runtime.</p>
 
 <br />
 
