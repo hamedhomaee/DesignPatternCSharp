@@ -7,3 +7,5 @@
 * Behavioral Design Patterns
 
 #### Each folder contains its corresponding patterns. 
+
+<p>All the explanations are extracted from GoF book and also a bunch of websites, which described the topic better.</p>
