@@ -25,7 +25,7 @@
 <br />
 
 <h3><strong>Positive Point</strong></h3>
-<p>Using this approach, there is no need to modify any class, but only a new class should be created, which extends the abstract method (open/close principle).</p>
+<p>Using this approach, there is no need to modify any class, but only a new class should be created, which extends the abstract class or the interface (open/close principle).</p>
 
 <br />
 
