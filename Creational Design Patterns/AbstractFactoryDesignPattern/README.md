@@ -1,7 +1,7 @@
 <h1>Abstract Factory Design Pattern</h1>
 
 <p>In simple word, the Abstract Factory is a super factory that creates other factories. This Factory is also called Factory of Factories.</p>
-<p>These factories produces objects, which have a common theme.</p>
+<p>These factories produce objects, which have a common theme.</p>
 
 <br />
 
