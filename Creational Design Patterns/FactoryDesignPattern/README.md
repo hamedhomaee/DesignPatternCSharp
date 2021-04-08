@@ -24,3 +24,8 @@
 
 <h3><strong>Negative Point</strong></h3>
 <p>By the emrgence of a new type of object, the editing of the Factory class would be indispensable.</p>
+
+<br />
+
+<h3><strong>Example used in the code</strong></h3>
+<p>A Benz factory, which creates whether C or E series (concrete classes) of the Benz type (abstract class) according to the client code (Program.cs).</p>
