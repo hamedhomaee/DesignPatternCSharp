@@ -17,7 +17,7 @@
 
 <h3><strong>Example</strong></h3>
 
-<p>There multiple UI elements such as button, text area, input elements and etc.</p>
+<p>There are multiple UI elements such as button, text area, input elements and etc.</p>
 <p>However, these elements can be produced with respect to the operating system, upon which the application should work.</p>
 <p>Therefore, it makes sense to have a super factory, which returns a UI factory for the desired operating system, and then create the desired UIs from the returned factory.</p>
 
