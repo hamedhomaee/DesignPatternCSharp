@@ -18,7 +18,7 @@
 
 <h3><strong>Example</strong></h3>
 
-<p>The HTTP request processing pipeline is a good example. For instance, after checking the authentication in a request, its should be passed to the next step, e.g., extracting other values from the request.</p>
+<p>The HTTP request processing pipeline is a good example. For instance, after checking the authentication in a request, it should be passed to the next step, e.g., in order to extract other values from the request.</p>
 
 <br />
 
