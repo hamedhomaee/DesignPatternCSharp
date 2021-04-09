@@ -1,4 +1,4 @@
-<h1>Builder Design Pattern</h1>
+<h1>Fluent Interface Design Pattern</h1>
 
 <p>The Fluent Interfaces and Method chaining are related to each other, orr we can say that one is a concept and the other is its implementation.</p>
 <p>The main objective of the Fluent Interface Design Pattern is to apply multiple properties (or methods) to an object by connecting them with dots <code>.</code> without having to re-specify the object name each time.</p>
