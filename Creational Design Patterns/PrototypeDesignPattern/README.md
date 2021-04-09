@@ -2,7 +2,7 @@
 
 <p>As per the GoF Definition, “Prototype Design Pattern specifies the kind of objects to create using a prototypical instance and create new objects by copying this prototype”. </p>
 <p>That means it clones the existing object with its data into a new object. Any changes to the cloned object (i.e., new object) does not affect the original object.</p>
-<p><strong>Note:</strong>C# provides one method i.e., <code>MemberwiseClone</code> which will create a new complete copy of the object.</p>
+<p><strong>Note:</strong> C# provides one method i.e., <code>MemberwiseClone</code> which will create a new complete copy of the object.</p>
 
 <br />
 
