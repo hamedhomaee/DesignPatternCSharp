@@ -31,9 +31,9 @@
 
 <h3><strong>Deep copy implementation</strong></h3>
 <p>In this case, if the desired object has other reference type values, first all of them should have a method for shallow cloning, which eventually would be called in cloning of the desired object.</p>
-<p>But inside the method of the actual object, first a new instance should be created, upon which the <code>MemberwiseClone</code> method is called. Then, its reference values should be assigned to it using the corresponding <code>clone</code> method. 
+<p>But inside the method of the actual object, first a new instance should be created, upon which the <code>MemberwiseClone</code> method is called. Then, its reference values should be assigned to it using the corresponding <code>clone</code> method.</p>
 
 <br />
 
 <h3><strong>Example used in the code</strong></h3>
-<p>There is a <strong>User</sstrong> object, which has a property of type <strong>Address</strong>. The shallow and deep copy operations are applied on an instance of the <strong>User</strong> class.</p>
+<p>There is a <strong>User</strong> object, which has a property of type <strong>Address</strong>. The shallow and deep copy operations are applied on an instance of the <strong>User</strong> class.</p>
