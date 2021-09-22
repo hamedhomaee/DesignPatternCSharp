@@ -7,8 +7,8 @@
 <br />
 
 <h3>Shallow copy</h3>
-<p>In the case of Shallow copy, a new object from the existing object will be created and then the value-type fields of the current object will be copied to the new object.</p>
-<p>But in the case of reference-type, it will only copy the reference, not the referred object itself. Therefore, the original and clone refer to the same object in case of reference-type.</p>
+<p>In the case of Shallow copy, a new object from the existing object will be created and then the value-type members of the current object will be copied to the new object.</p>
+<p>But in the case of reference-type members, it will only copy the reference, not the actual value. Therefore, the original and clone objects refer to the same value in case of reference-type members.</p>
 
 <h3>Deep copy</h3>
 <p>In the case of deep copy, it will create the new object from the existing object and then copying the fields of the current object to the newly created object.</p>
