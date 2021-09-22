@@ -22,4 +22,4 @@
 
 <br />
 
-<p>Aparat from the above topics, "Lazy/Eager Loading" and "Thread-Safety" regarding these design patterns is discussed.</p>
+<p>Apart from the above topics, "Lazy/Eager Loading" and "Thread-Safety" regarding these design patterns is discussed.</p>
