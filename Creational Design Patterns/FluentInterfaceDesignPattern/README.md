@@ -1,6 +1,6 @@
 <h1>Fluent Interface Design Pattern</h1>
 
-<p>The Fluent Interfaces and Method chaining are related to each other, orr we can say that one is a concept and the other is its implementation.</p>
+<p>The Fluent Interfaces and Method chaining are related to each other, or we can say that one is a concept and the other is its implementation.</p>
 <p>The main objective of the Fluent Interface Design Pattern is to apply multiple properties (or methods) to an object by connecting them with dots <code>.</code> without having to re-specify the object name each time.</p>
 <p>However, to achieve this, <strong>Method Chaining</strong> must be exploited.</p>
 <p><strong>Method chaining</strong> is a common technique where each method returns an object, and all these methods can be chained together to form a single statement.</p>
